@@ -1,5 +1,5 @@
 function doReply(){
-    alert('Hi!');
+    alert('Hii!');
     var inputText = document.getElementById('inputText');
     console.log(inputText.value);
     var msgArea = document.getElementById("msgArea");
